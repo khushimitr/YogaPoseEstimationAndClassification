@@ -10,6 +10,7 @@ achieves 91% accuracy and can be used in real-time as well.
 
 ![App Screenshot](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Bhujangasana.gif)
 
+
 ## Dependencies
 To run code in this repo properly, you will need:
 * openCV
@@ -49,6 +50,7 @@ Note: Movenet thunder detect 17 keypoints and give their coordinates and score.
 ```
 
 Now, you should get two csv files with names train.csv and test.csv.
+
 
 ## Weights
 
@@ -134,11 +136,26 @@ cv2.destroyAllWindows()
 ```
 
 `class_to_match` takes the class that you want your real time feed to match.
+It also uses some `helper functions` which can be found [here](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Helper_Drawing_Functions.py)
 
 ## Confusion Matrix
 
-Since Yoga poses can have small pysical differentiations, 
+Since some Yoga poses can have small pysical differences, 
 so it is interesting to see where our model gets confused:
 
 ![App ScreenShot](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/confusion_matrix.png)
+
+
+## Outputs our model achieves
+
+### Output by our model on images
+Images on which inference has been provided can be found [here](https://github.com/khushimitr/YogaPoseEstimationAndClassification/tree/main/inference_images)
+and their output inferences can be found [here](https://github.com/khushimitr/YogaPoseEstimationAndClassification/tree/main/Inferences)
+
+![App Screenshot 1](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Screenshot_1.png)
+![App Screenshot 2](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Screenshot_2.png)
+
+### Real Time Outputs by our model
+![App Screenshot-1](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif) ![App ScreenShot-2](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif)
+
 
