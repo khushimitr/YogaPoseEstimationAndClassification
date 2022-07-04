@@ -5,9 +5,13 @@ doing yoga pose and classifying it. Trained on 48 classes of yoga pose, our mode
 achieves 91% accuracy and can be used in real-time as well.
 
 
+
 ## Demo
 
-![App Screenshot](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Bhujangasana.gif)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Bhujangasana.gif">
+</p>
+
 
 
 ## Dependencies
