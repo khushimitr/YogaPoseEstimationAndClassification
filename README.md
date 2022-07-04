@@ -42,7 +42,7 @@ Split the data into training and testing, each having n number of classes that y
 want to classify.
 
 ## Generate Keypoints per image
-Use class Movenet and Preprocessing provided and for each image run the 
+Use class [Movenet](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Movenet.py) and [Preprocessing](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/PreProcessing_To_CSV.py) provided and for each image run the 
 movenet thunder model to identify keypoints and store them in a csv file.
 
 ```
