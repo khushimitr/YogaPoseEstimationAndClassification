@@ -146,22 +146,30 @@ so it is interesting to see where our model gets confused:
 ![App ScreenShot](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/confusion_matrix.png)
 
 
+
 ## Outputs our model achieves
 
 ### Output by our model on images
 Images on which inference has been provided can be found [here](https://github.com/khushimitr/YogaPoseEstimationAndClassification/tree/main/inference_images)
 and their output inferences can be found [here](https://github.com/khushimitr/YogaPoseEstimationAndClassification/tree/main/Inferences)
 
+
 ![App Screenshot 1](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Screenshot_1.png)
 ![App Screenshot 2](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Screenshot_2.png)
 
 ### Real Time Outputs by our model
-<!-- ![App Screenshot-1](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif) ![App ScreenShot-2](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif) -->
 
 <p align="center">
   <img alt="Balasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Hastauttasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif" width="45%">
+</p>
+
+
+<p align="center">
+  <img alt="Vasisthasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Vasisthasana.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Vrikshasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Vrikshasana.gif" width="45%">
 </p>
 
 
