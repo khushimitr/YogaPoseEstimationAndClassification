@@ -8,11 +8,7 @@ achieves 91% accuracy and can be used in real-time as well.
 
 ## Demo
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Bhujangasana.gif">
-</p>
-
-
+![App Screenshot](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Bhujangasana.gif)
 
 ## Dependencies
 To run code in this repo properly, you will need:
