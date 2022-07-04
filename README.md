@@ -158,6 +158,10 @@ and their output inferences can be found [here](https://github.com/khushimitr/Yo
 ### Real Time Outputs by our model
 <!-- ![App Screenshot-1](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif) ![App ScreenShot-2](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif) -->
 
-<img src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif" width="425"/> <img src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif" width="425"/> 
+<p align="center">
+  <img alt="Balasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Balasana.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Hastauttasana" src="https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/Inferences/Hastauttasana.gif" width="45%">
+</p>
 
 
