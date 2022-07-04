@@ -49,7 +49,8 @@ movenet thunder model to identify keypoints and store them in a csv file.
 Note: Movenet thunder detect 17 keypoints and give their coordinates and score.
 ```
 
-Now, you should get two csv files with names train.csv and test.csv.
+Now, you should get two csv files with names [train.csv](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/CSV_data/train_data.csv) and [test.csv](https://github.com/khushimitr/YogaPoseEstimationAndClassification/blob/main/CSV_data/test_data.csv).
+
 
 
 ## Weights
